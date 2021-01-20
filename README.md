@@ -1,0 +1,2 @@
+# Hezz-plugin
+plugin wordpress
